@@ -1,0 +1,2001 @@
+patient_id,claim_date,icd10_code,description,icd_version,claim_type
+PAT000337,2023-05-01,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001872,2023-05-07,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001866,2023-09-01,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000243,2021-09-30,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002508,2022-02-19,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000473,2022-09-18,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001291,2021-08-19,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002234,2023-12-02,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001112,2023-12-27,E11.3,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000413,2023-06-09,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002403,2021-10-19,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001635,2022-12-12,J45.5,Asthma (specified),ICD-10-CM-2023,Medical
+PAT002686,2022-09-21,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT001706,2023-08-22,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000591,2023-09-20,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000755,2022-03-02,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000511,2022-03-12,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT001888,2021-11-24,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000301,2022-05-11,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001199,2021-08-28,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002385,2022-07-02,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002825,2023-12-15,J45.2,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002187,2021-11-16,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001935,2022-08-28,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001384,2021-12-09,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT001309,2022-04-09,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002888,2023-05-15,J45.2,Asthma (specified),ICD-10-CM-2023,Medical
+PAT002780,2021-11-28,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT002692,2022-05-31,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT001354,2022-09-26,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000529,2022-08-21,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002292,2021-07-02,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001640,2023-10-01,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT002778,2023-12-04,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001958,2022-03-25,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT001281,2021-06-23,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT001998,2023-12-30,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000972,2022-07-28,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000911,2023-08-08,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000772,2021-08-10,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002729,2022-09-26,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001899,2022-10-30,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000752,2021-06-21,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002327,2022-12-19,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT001145,2023-06-18,J45.3,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000759,2023-05-26,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000926,2022-11-18,J45.2,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001578,2023-08-27,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002015,2021-06-16,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT001213,2022-09-16,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000283,2023-04-13,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000550,2021-08-27,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001506,2023-05-31,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001123,2021-07-15,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT000012,2023-01-18,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001519,2023-05-06,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002448,2023-11-09,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001483,2022-10-10,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002523,2022-05-09,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000673,2022-07-01,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT001103,2022-03-21,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001678,2021-06-17,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001236,2021-07-27,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002680,2022-01-30,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT000674,2023-10-13,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001482,2021-09-29,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002178,2023-02-27,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000694,2022-09-23,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT001183,2023-11-17,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000538,2022-03-04,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002018,2022-12-03,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001785,2023-07-07,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000211,2021-12-08,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000236,2022-10-10,E78.1,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002575,2023-03-19,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000081,2021-12-13,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000932,2023-03-14,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000637,2023-11-25,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002544,2022-10-17,J45.4,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000113,2022-09-09,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000545,2022-07-07,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001985,2021-10-25,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001663,2021-09-17,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002181,2022-10-01,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001924,2023-05-01,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000452,2022-07-12,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002150,2021-08-26,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000290,2023-09-05,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000804,2022-11-19,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001240,2023-07-12,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000999,2021-11-10,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002140,2022-08-16,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002889,2023-06-28,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000747,2023-07-03,J45.9,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001822,2023-09-26,J45.4,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000751,2023-03-25,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002432,2023-03-26,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001925,2022-06-19,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002754,2023-03-17,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001175,2022-10-29,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT002147,2021-10-11,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001521,2023-11-29,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002387,2022-05-04,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002409,2022-06-29,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002383,2021-10-16,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001976,2022-12-06,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001252,2021-12-08,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001417,2023-06-12,J45.3,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000072,2022-12-06,J45.9,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002964,2023-08-21,J45.9,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001970,2023-05-31,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001444,2023-01-29,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001377,2021-10-23,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001214,2021-09-17,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000948,2023-12-25,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001590,2022-04-19,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002685,2021-09-30,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000156,2021-08-31,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001153,2022-06-13,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002514,2022-04-11,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000528,2022-11-28,J45.3,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001339,2022-01-29,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001701,2022-12-31,J45.3,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002940,2022-05-22,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001942,2022-05-21,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002047,2022-09-27,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000438,2023-05-03,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000568,2023-07-28,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001546,2023-12-08,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000223,2023-12-26,E78.1,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001676,2023-01-06,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001090,2022-04-19,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000775,2022-11-10,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001134,2023-06-09,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002294,2023-10-31,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT001525,2023-03-27,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002498,2022-07-07,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002006,2021-12-17,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001735,2023-02-27,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001780,2023-12-05,J45.9,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000590,2021-07-16,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000268,2021-08-12,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002113,2023-05-22,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001836,2022-09-24,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002085,2021-06-30,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000632,2022-07-19,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002649,2022-11-30,J45.3,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002361,2021-08-03,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002740,2022-04-24,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001019,2021-06-06,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002739,2022-10-31,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000317,2022-11-21,E11.3,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002394,2023-05-18,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000636,2023-06-14,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002806,2022-09-14,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000325,2022-07-03,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000432,2022-08-04,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001974,2022-08-18,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001681,2023-11-02,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT001364,2021-08-29,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002376,2021-12-21,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000834,2022-08-22,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT001367,2022-08-18,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002269,2023-11-03,J45.2,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001731,2021-08-18,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002910,2021-11-25,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT000707,2021-09-14,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000543,2023-11-06,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000480,2021-06-16,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002095,2021-10-31,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000909,2022-07-03,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002767,2021-10-12,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000396,2022-03-24,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000664,2022-01-22,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001523,2021-08-17,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001894,2023-05-25,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT002836,2022-06-20,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000684,2022-02-09,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000442,2023-09-16,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002307,2022-05-06,J45,Asthma,ICD-10-CM-2022,Lab
+PAT000563,2023-12-21,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000793,2023-02-11,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000778,2022-10-11,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002433,2023-09-09,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000166,2022-01-08,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002664,2023-04-16,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002256,2023-02-03,J45.2,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001050,2021-12-12,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001984,2023-05-29,E78.1,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000197,2023-09-10,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001821,2022-07-28,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001470,2023-03-10,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002764,2021-07-24,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001282,2022-01-01,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002324,2023-12-18,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000776,2023-12-08,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001729,2023-11-26,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002758,2023-12-13,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002919,2021-07-20,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001443,2022-09-06,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000089,2022-08-26,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000457,2022-09-01,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000992,2023-06-17,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001072,2021-10-29,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002659,2022-04-15,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002712,2022-01-07,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001076,2021-11-21,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000753,2023-10-07,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002171,2021-10-17,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002924,2022-11-16,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001107,2022-08-22,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002688,2021-06-14,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000295,2023-04-18,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002257,2021-09-26,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002751,2023-07-13,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001229,2022-01-15,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001570,2023-01-08,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001909,2023-02-03,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001633,2023-05-20,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002743,2023-04-14,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001396,2022-11-07,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002828,2022-01-20,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000897,2023-11-12,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002585,2023-01-23,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001540,2022-01-16,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002717,2023-02-21,E11.3,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000835,2022-02-11,J45,Asthma,ICD-10-CM-2022,Lab
+PAT000742,2022-07-31,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002726,2021-09-27,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001762,2021-11-03,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002965,2021-12-20,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002887,2022-08-12,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001769,2021-12-17,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002946,2022-09-03,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002190,2023-10-24,J45.4,Asthma (specified),ICD-10-CM-2023,Medical
+PAT002943,2023-08-27,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002944,2022-05-14,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001043,2022-10-28,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT001382,2023-10-06,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT001120,2022-09-16,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002918,2022-06-23,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT001132,2021-09-08,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT001206,2023-11-21,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002228,2023-07-22,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000843,2021-09-24,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001838,2023-11-02,E11.3,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002386,2022-10-31,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000300,2022-04-02,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000409,2023-06-30,J45.4,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002614,2022-09-13,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000228,2023-09-14,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000323,2021-11-03,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001173,2023-02-20,J45.9,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000285,2023-12-28,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000230,2022-08-21,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000183,2022-08-22,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT001569,2022-11-13,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000092,2023-03-09,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002578,2021-11-06,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001321,2023-12-19,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001749,2023-02-08,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000269,2023-09-01,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT001811,2022-12-10,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000840,2023-03-09,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001932,2022-01-14,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002264,2022-09-10,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000463,2023-11-20,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000415,2023-04-11,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000773,2022-05-28,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000739,2023-02-26,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000171,2023-12-12,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001371,2021-09-21,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000332,2023-09-13,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000345,2023-08-19,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002302,2023-09-24,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001882,2023-07-27,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000803,2021-08-06,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000855,2023-10-08,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001034,2022-03-04,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002487,2023-09-01,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000861,2022-11-28,J45.9,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001704,2021-08-25,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000051,2021-08-31,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000857,2023-05-15,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT002035,2022-05-24,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001865,2021-09-13,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002058,2022-02-17,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002476,2021-11-17,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001624,2022-07-01,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001456,2023-03-16,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001400,2023-10-08,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000943,2023-03-13,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002868,2021-09-24,J45,Asthma,ICD-10-CM-2022,Lab
+PAT000069,2021-09-08,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000959,2021-06-17,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000376,2022-11-14,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000202,2022-08-25,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001883,2022-04-18,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT002199,2022-08-25,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT002788,2023-08-18,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002084,2022-05-29,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002501,2022-12-31,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000630,2023-09-26,J45.9,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001497,2023-04-16,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000033,2023-11-27,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001509,2023-05-07,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000625,2022-01-29,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000453,2023-03-20,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002056,2023-03-27,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002352,2023-07-23,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002268,2022-01-06,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002605,2021-06-14,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002636,2023-06-26,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT002331,2023-02-08,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002568,2022-05-13,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT001639,2023-09-09,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000061,2023-06-08,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000975,2021-06-25,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000577,2022-06-06,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002093,2023-08-16,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000032,2022-05-06,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001591,2023-02-03,J45.3,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000152,2021-12-16,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001791,2022-01-22,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001555,2021-07-12,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002914,2022-12-29,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002354,2023-02-06,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000095,2022-01-21,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002339,2021-08-12,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001837,2021-06-04,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001988,2022-05-30,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002700,2023-05-22,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002539,2023-08-08,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002405,2021-08-06,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002928,2022-08-30,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001256,2022-01-04,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001008,2023-01-08,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT002958,2022-01-01,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002473,2022-07-19,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000460,2023-02-09,E11.3,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001834,2021-07-28,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001577,2021-06-24,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT002731,2021-08-09,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000638,2022-10-31,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001538,2023-11-12,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000468,2021-11-06,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000540,2021-11-27,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000574,2021-06-10,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000811,2023-07-30,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000549,2021-06-21,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002367,2023-03-28,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT002119,2023-08-01,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002282,2022-02-24,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001722,2023-04-15,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001566,2023-08-15,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001369,2023-12-18,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001674,2022-03-10,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002369,2023-05-14,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002404,2021-12-13,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002274,2023-06-08,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000838,2022-04-23,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001296,2022-07-25,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002461,2022-11-18,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001000,2023-10-08,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002783,2022-07-23,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001272,2023-10-03,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001559,2023-09-15,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT001911,2022-05-23,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000713,2021-11-10,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000489,2022-10-12,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001664,2021-06-20,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002547,2022-07-18,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002796,2022-03-18,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002259,2021-10-02,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001318,2023-02-12,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002638,2023-04-29,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000962,2022-11-30,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002761,2023-09-02,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001040,2023-11-09,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002981,2021-07-31,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002936,2021-12-18,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000208,2023-06-25,J45.9,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002240,2022-07-21,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001670,2021-06-29,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT001973,2022-08-31,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001804,2023-04-12,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT001649,2021-06-04,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002996,2021-10-26,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002661,2023-02-03,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000691,2023-06-12,J45.9,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000358,2022-05-08,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001565,2023-07-31,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001373,2021-12-10,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000118,2023-10-27,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002392,2022-02-13,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002254,2022-09-07,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000912,2021-09-19,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001738,2021-11-06,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002395,2023-10-13,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000165,2023-08-12,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000242,2021-08-13,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002434,2021-07-08,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001859,2022-06-19,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002646,2023-12-07,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000965,2023-03-19,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000749,2021-11-19,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002517,2022-11-29,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT001306,2022-08-31,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000867,2021-09-13,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002527,2023-10-21,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002632,2022-07-27,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002478,2023-05-01,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002351,2021-07-31,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002587,2023-07-05,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002916,2023-03-09,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000227,2022-03-09,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002961,2021-12-24,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000728,2021-09-18,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT001210,2023-05-05,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002603,2021-12-31,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002867,2022-07-08,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001102,2021-08-18,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002197,2021-11-22,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001285,2022-09-30,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001517,2023-11-24,E11.3,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT001763,2021-11-19,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000091,2023-10-12,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001212,2021-12-20,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000805,2022-12-11,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001714,2022-08-23,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001953,2022-02-21,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002790,2023-11-08,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001725,2023-03-15,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002903,2023-05-13,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000951,2023-11-09,E78.1,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002503,2021-09-24,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002926,2021-08-13,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002512,2023-07-20,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002449,2021-09-26,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000746,2021-12-29,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000316,2023-11-19,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002488,2022-03-02,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001010,2023-07-18,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002402,2022-02-11,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT002208,2022-08-13,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002315,2023-05-15,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT000578,2022-09-19,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000533,2022-10-06,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000717,2023-01-17,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001066,2021-07-14,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002956,2023-12-12,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000801,2022-01-13,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002565,2021-12-26,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001950,2022-08-07,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002049,2023-09-29,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002359,2023-12-04,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001860,2022-11-12,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000703,2021-12-21,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002641,2023-07-07,J45.4,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001170,2022-01-14,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002882,2022-08-24,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001316,2021-09-09,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001868,2022-02-02,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000080,2022-04-05,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT000989,2022-01-11,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000980,2022-01-22,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001215,2021-11-28,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001564,2023-04-25,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001563,2022-09-15,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000102,2023-12-06,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000023,2022-12-15,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001581,2023-06-14,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT002849,2022-05-11,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000646,2023-11-08,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT001084,2022-09-20,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002951,2022-06-27,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000462,2023-03-28,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000294,2022-01-03,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001031,2021-12-14,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT001342,2021-06-05,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001775,2022-04-24,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001350,2022-07-08,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002735,2023-10-10,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001496,2022-09-15,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002601,2021-08-22,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002818,2022-09-08,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001164,2023-01-14,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001707,2021-08-21,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001370,2023-11-09,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000235,2021-12-02,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001558,2022-04-20,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001941,2022-11-05,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001042,2023-04-27,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002786,2022-11-25,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001393,2021-07-15,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000996,2022-01-28,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002902,2023-10-22,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002675,2021-09-02,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000260,2023-07-17,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001846,2023-10-10,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001515,2022-10-15,J45.3,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000122,2021-07-15,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT000105,2023-06-27,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001186,2021-12-11,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002922,2022-12-04,J45.2,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002691,2022-03-23,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002036,2022-02-18,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002480,2023-04-04,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000655,2023-07-28,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000273,2023-06-27,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000154,2023-05-14,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000060,2022-07-29,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001237,2022-07-26,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000920,2021-06-06,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000799,2021-10-05,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002612,2021-08-18,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001666,2021-06-26,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000963,2023-10-01,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000599,2022-03-01,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001053,2023-11-18,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000744,2021-07-09,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000483,2021-06-22,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000068,2022-05-02,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001742,2023-11-14,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT000446,2023-08-31,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002261,2023-04-28,E78.1,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT001817,2022-06-13,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000891,2023-06-15,J45.9,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001917,2022-09-11,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002033,2021-08-22,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002286,2023-02-14,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002122,2022-04-17,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001157,2022-03-10,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000341,2023-08-22,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002794,2023-08-29,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001142,2021-08-27,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001916,2022-10-20,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002797,2021-11-12,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002650,2022-02-01,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002907,2022-06-24,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT000809,2023-07-17,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001129,2023-03-20,J45.5,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002378,2022-08-21,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002693,2023-05-28,E78.1,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000603,2023-10-23,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001708,2021-10-05,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000613,2022-05-28,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002529,2023-07-26,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000974,2023-03-31,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002170,2022-04-11,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT000618,2021-12-26,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001340,2023-04-29,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002163,2022-01-29,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002720,2022-01-04,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000748,2021-12-01,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002050,2023-03-26,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002317,2022-08-12,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001338,2022-06-02,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002763,2022-07-07,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001230,2021-12-06,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001606,2023-10-08,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000762,2023-08-23,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001805,2023-05-10,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002532,2021-08-02,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000168,2022-05-02,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001616,2023-10-16,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000994,2022-09-18,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000246,2023-07-17,J45.3,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000667,2022-08-30,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000521,2022-08-13,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001990,2022-05-31,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001975,2023-07-25,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001328,2023-12-17,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000766,2022-06-28,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002576,2021-11-14,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000461,2022-05-08,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002149,2023-04-26,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001487,2023-02-02,J45.3,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000194,2022-07-01,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002537,2022-03-19,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002145,2021-11-17,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000648,2022-09-26,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT001585,2022-06-14,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001518,2022-04-27,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002581,2022-10-18,J45.5,Asthma (specified),ICD-10-CM-2023,Medical
+PAT002453,2023-03-26,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002620,2023-12-26,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001768,2021-10-21,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002078,2023-07-29,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001037,2023-07-24,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001604,2021-10-31,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002759,2023-02-23,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002129,2023-01-21,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001290,2022-06-16,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000827,2022-04-01,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001513,2021-10-09,J45,Asthma,ICD-10-CM-2022,Lab
+PAT000991,2022-03-12,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000988,2022-09-15,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002775,2021-11-24,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000123,2021-10-14,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002220,2022-10-19,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001655,2021-07-23,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002986,2023-04-24,E78.1,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000885,2022-03-06,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001774,2023-11-27,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002953,2021-08-17,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001891,2023-04-29,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000940,2023-04-26,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000682,2023-12-16,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002945,2022-05-30,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002551,2022-06-16,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002372,2022-06-14,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002623,2022-07-19,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001652,2023-10-18,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001766,2023-12-02,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000040,2023-10-30,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000555,2023-07-31,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002657,2021-12-30,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001211,2022-06-14,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001242,2021-07-15,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002161,2022-03-12,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001337,2022-12-14,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT000144,2022-05-30,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001530,2022-09-23,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001797,2023-06-02,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000209,2022-06-23,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT001176,2023-08-22,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002939,2023-01-05,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002881,2021-11-02,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002435,2022-11-24,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000597,2022-03-04,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT001219,2022-02-19,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002927,2023-06-07,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002728,2022-03-26,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002998,2022-10-21,J45.3,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001088,2022-01-19,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001155,2022-03-04,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002311,2021-09-29,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001761,2022-11-22,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001576,2022-04-10,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001512,2023-05-22,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000740,2023-02-26,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000977,2022-04-26,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000139,2023-11-15,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002295,2023-04-02,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT001980,2022-05-19,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001453,2023-08-10,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001921,2022-06-24,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT000944,2022-11-20,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002444,2023-01-20,E78.1,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT000220,2021-11-08,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002355,2023-01-18,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000864,2022-12-22,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002535,2021-12-31,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT000231,2022-07-12,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002313,2022-05-31,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002134,2022-10-26,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002600,2023-08-07,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002561,2023-09-13,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001531,2021-07-22,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002330,2023-09-03,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002892,2023-07-17,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001101,2023-11-24,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002334,2022-04-01,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002245,2021-12-21,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001060,2023-10-26,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000866,2023-01-24,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002716,2022-11-15,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000935,2022-04-24,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001446,2021-11-01,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT000036,2023-01-07,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002061,2023-03-15,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001410,2023-09-21,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001915,2022-12-03,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000501,2022-02-26,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002633,2022-06-29,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000266,2023-05-27,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002401,2021-12-19,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000495,2021-06-09,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000261,2023-06-05,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001220,2023-08-27,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002989,2023-02-15,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000876,2022-03-15,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002873,2021-08-09,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001873,2022-04-13,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002589,2021-12-25,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002003,2022-11-16,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001192,2021-08-17,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001288,2023-05-29,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000475,2022-08-03,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001686,2022-07-14,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT001498,2023-01-01,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000642,2022-07-23,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001920,2023-09-09,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000377,2021-12-17,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002005,2022-10-18,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT000257,2023-05-25,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002625,2022-09-14,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001723,2023-12-12,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000822,2023-04-10,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001232,2023-03-26,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001931,2023-11-05,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000509,2023-07-12,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT001502,2023-07-03,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001813,2023-04-20,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT001679,2023-03-21,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000769,2022-01-13,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT000408,2023-09-27,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002024,2022-11-11,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002745,2021-09-17,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT001741,2022-10-14,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001372,2023-05-16,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001246,2021-09-05,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000001,2021-08-13,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000518,2022-09-05,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001130,2023-10-16,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001406,2022-02-09,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT001528,2022-05-23,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT001779,2021-10-22,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001159,2023-09-29,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001926,2021-06-14,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002155,2021-07-11,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT000362,2022-03-30,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT001660,2022-05-28,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000879,2022-06-02,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002609,2022-11-09,J45.2,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001208,2021-11-06,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002546,2021-10-28,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001422,2022-05-13,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002332,2023-06-06,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000233,2023-11-30,J45.9,Asthma (specified),ICD-10-CM-2023,Medical
+PAT002580,2022-10-26,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002932,2023-05-12,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001442,2023-09-19,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000029,2023-04-21,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002757,2023-04-30,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002569,2023-06-28,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001878,2023-05-12,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002010,2023-12-12,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001522,2021-08-22,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000043,2023-07-09,J45.9,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001086,2023-09-16,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT000481,2022-06-22,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000872,2021-10-28,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT001685,2021-07-10,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002502,2021-11-11,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002893,2021-11-28,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002510,2023-04-27,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT001751,2021-12-08,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002413,2022-11-25,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002357,2023-04-03,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000321,2023-04-06,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000813,2022-06-27,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001325,2021-08-15,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000677,2022-01-04,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002925,2022-09-01,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000180,2022-08-24,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000114,2023-07-02,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002690,2023-01-10,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT002477,2023-02-06,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002007,2022-07-04,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002051,2022-08-13,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001172,2022-11-12,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002423,2023-06-02,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001233,2023-02-12,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001595,2023-06-22,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001490,2023-02-09,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001672,2021-12-18,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000016,2023-09-10,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001135,2022-09-15,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000346,2022-12-30,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000504,2021-12-25,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000086,2021-07-18,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002421,2022-10-26,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002504,2022-01-06,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001885,2021-06-05,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002287,2022-12-02,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002777,2021-09-10,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT000496,2023-09-11,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002420,2023-04-28,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT000842,2021-08-11,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000093,2022-01-29,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002851,2022-10-19,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000186,2022-07-24,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001567,2022-04-15,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000651,2023-04-17,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002812,2022-07-20,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001829,2023-07-14,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002947,2023-09-22,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002037,2022-01-06,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000313,2021-08-02,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002081,2021-12-07,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000335,2023-10-31,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001329,2022-07-18,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000465,2022-06-16,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002776,2023-08-25,J45.3,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000584,2023-05-31,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001902,2023-10-15,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001062,2021-07-09,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000644,2022-09-13,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000121,2022-03-03,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001268,2021-12-02,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001313,2022-09-14,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001082,2021-09-17,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002167,2022-07-07,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002709,2022-10-18,E11.3,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002770,2021-09-07,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002516,2023-09-23,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002834,2023-09-04,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001524,2022-07-01,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002291,2021-10-23,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000993,2022-10-17,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT001907,2022-02-10,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002152,2021-07-07,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002244,2022-01-21,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000513,2023-02-01,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002206,2022-10-31,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000839,2021-07-09,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002212,2022-05-05,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000559,2023-02-01,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT002678,2021-08-28,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002203,2023-03-06,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002125,2023-12-14,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT000314,2022-04-04,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000808,2021-07-29,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000987,2021-06-17,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000958,2021-11-25,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002570,2022-12-08,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT002491,2023-06-27,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT001435,2023-10-17,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000596,2021-11-21,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002542,2022-02-24,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002312,2023-07-10,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000374,2022-12-25,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000507,2023-05-20,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002658,2021-11-01,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002975,2022-12-12,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001361,2021-12-13,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000650,2022-08-17,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000084,2021-10-15,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002132,2022-06-24,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001906,2022-01-27,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT000606,2022-03-15,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000784,2021-12-16,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002872,2023-06-22,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT001207,2023-04-18,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT001634,2023-08-02,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002524,2023-03-19,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001063,2021-11-20,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001452,2023-11-07,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001023,2022-04-07,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000953,2021-08-03,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001461,2022-11-28,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001094,2021-06-05,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000286,2022-02-08,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002101,2022-09-06,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000234,2022-04-08,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001588,2021-11-12,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000607,2023-12-01,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001351,2022-11-26,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000200,2021-06-08,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000124,2021-12-26,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000611,2022-06-01,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000735,2022-07-13,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001933,2021-11-29,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002879,2023-10-13,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000185,2022-09-24,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002048,2023-10-17,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002133,2023-11-21,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002942,2023-08-02,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001843,2023-11-13,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001111,2022-08-20,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000663,2021-12-06,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001036,2023-06-06,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001071,2022-09-13,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000900,2022-05-13,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002443,2023-09-11,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT002363,2022-05-04,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000247,2023-10-03,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001613,2023-11-25,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001479,2023-01-04,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000004,2022-05-25,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002087,2023-05-14,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000401,2022-09-09,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002319,2023-02-02,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001243,2023-02-16,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001231,2021-09-02,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002988,2021-10-03,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002114,2021-09-18,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002655,2022-09-13,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001643,2023-09-29,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001021,2023-12-09,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001918,2022-10-18,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT000510,2023-04-05,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002577,2021-08-12,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001650,2021-10-28,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001138,2022-02-19,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000137,2022-09-14,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002340,2021-11-25,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001491,2022-06-21,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001982,2021-07-11,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002628,2023-08-22,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000250,2023-10-01,J45.4,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000406,2022-01-18,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001820,2023-01-14,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002137,2021-12-25,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001136,2023-03-19,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002703,2022-09-05,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000880,2022-12-06,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT002415,2021-08-26,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001583,2023-02-24,J45.3,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001457,2022-06-18,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000725,2021-09-23,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000338,2022-11-08,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001475,2023-07-05,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT001013,2023-01-11,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT001078,2022-01-23,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001508,2023-08-14,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002463,2021-06-05,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001994,2021-12-28,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002950,2022-06-25,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT001849,2022-04-12,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000734,2023-07-06,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000732,2023-10-07,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002217,2021-09-20,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000431,2022-11-12,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000429,2023-01-08,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002987,2023-08-20,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001324,2023-12-05,J45.9,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000927,2023-10-06,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001160,2022-08-07,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002670,2021-11-18,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT001547,2021-09-13,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT001345,2021-12-16,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT002103,2023-06-25,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000592,2022-06-09,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001923,2023-11-17,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002414,2023-09-12,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000556,2023-11-04,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000210,2023-02-07,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT001754,2022-10-25,J45.4,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001474,2022-04-30,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001133,2023-06-11,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT000131,2023-09-17,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001971,2022-12-10,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT000968,2022-01-30,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001411,2022-03-04,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001472,2022-08-05,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT000877,2023-06-04,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000008,2021-07-04,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001265,2021-10-23,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002447,2023-07-07,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000440,2023-01-31,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT002342,2022-12-03,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002418,2021-06-26,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000846,2022-01-09,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001166,2022-04-21,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001194,2023-02-16,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT001968,2022-11-12,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001641,2022-05-16,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000340,2022-09-23,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000382,2022-07-27,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000701,2023-02-21,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001996,2022-11-25,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001137,2022-02-25,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002803,2023-04-02,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001800,2022-12-21,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001480,2022-08-25,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001065,2023-10-19,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002513,2023-07-27,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002142,2023-08-18,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001424,2023-11-26,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT000908,2021-07-07,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000148,2022-09-04,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000125,2022-12-03,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000616,2023-05-29,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001623,2022-06-19,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001391,2023-07-27,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002654,2021-09-15,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002753,2022-11-08,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000536,2022-05-21,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002854,2023-02-25,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001448,2023-05-19,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002894,2023-02-05,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001380,2022-04-05,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002185,2023-08-19,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000976,2022-02-18,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000392,2022-04-27,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001267,2023-10-11,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT000342,2022-04-30,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001032,2022-11-02,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000172,2023-04-16,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000656,2022-04-16,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001110,2021-07-20,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT000229,2022-11-16,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002742,2021-07-21,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000082,2021-08-28,J45,Asthma,ICD-10-CM-2022,Lab
+PAT000979,2023-08-12,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002039,2022-12-11,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000159,2021-12-17,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000523,2022-02-18,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002584,2021-12-18,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002832,2023-04-05,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT001659,2022-04-16,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002345,2022-09-13,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002226,2023-02-01,J45.3,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002429,2021-08-31,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002179,2023-08-19,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002121,2021-11-17,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002779,2023-06-27,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT000845,2021-10-11,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001586,2022-11-16,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002896,2023-07-15,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001951,2021-11-16,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT001093,2023-03-07,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001216,2022-06-20,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002618,2023-08-09,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000628,2022-01-15,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002880,2023-02-13,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002771,2022-04-01,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002060,2022-12-23,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002747,2023-03-04,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002799,2023-10-08,J45.5,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001356,2023-12-01,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000950,2021-12-06,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001788,2023-05-30,J45.5,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000815,2023-09-21,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001977,2022-05-10,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT000922,2023-12-01,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000390,2022-08-09,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002613,2023-11-02,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000328,2022-01-22,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002348,2022-11-14,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000862,2022-09-11,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002586,2023-01-12,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT002221,2022-12-22,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002126,2023-07-26,J45.4,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001202,2022-01-09,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002974,2023-06-26,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001261,2022-01-13,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000389,2022-05-05,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002325,2021-12-21,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001789,2021-08-11,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002960,2021-11-06,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000586,2022-07-03,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002326,2021-07-01,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001579,2023-12-30,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000522,2022-05-02,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002667,2022-06-12,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000484,2022-04-07,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT001276,2022-03-20,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002156,2022-03-25,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000589,2022-01-04,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT000344,2021-10-08,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002263,2021-07-11,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001225,2022-07-31,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002668,2023-04-28,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000284,2021-11-03,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000216,2022-10-08,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002725,2022-05-17,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002475,2023-07-29,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000730,2023-08-16,J45.3,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001438,2023-06-15,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001018,2022-05-24,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000201,2023-11-26,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001058,2022-09-29,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000232,2023-04-13,J45.2,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002689,2021-11-22,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002552,2022-05-14,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000600,2021-06-19,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000111,2022-04-02,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002490,2022-02-24,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001271,2022-07-07,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002621,2021-07-26,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002732,2023-07-10,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001784,2022-02-14,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001312,2023-12-06,E78.1,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT002272,2022-01-03,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002135,2022-05-15,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000343,2023-11-05,J45.2,Asthma (specified),ICD-10-CM-2023,Medical
+PAT002744,2022-05-10,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000524,2023-02-28,J45.9,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002884,2022-05-15,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002626,2023-05-19,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002242,2021-07-09,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000635,2022-05-06,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002471,2022-07-18,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002370,2023-02-14,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000178,2023-09-05,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT002718,2023-03-06,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000054,2021-11-28,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002159,2023-11-28,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002211,2022-01-24,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000066,2022-05-01,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001154,2022-10-07,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT001949,2023-07-06,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000492,2023-03-09,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001880,2023-12-18,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT002229,2023-06-03,J45.2,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000612,2022-10-20,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000631,2023-02-14,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002530,2022-05-02,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000117,2023-03-28,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002769,2021-10-29,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000193,2023-11-26,J45.5,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001594,2022-06-21,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000825,2021-06-05,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002436,2021-12-21,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT000567,2022-11-10,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001421,2023-04-09,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000052,2023-06-05,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000890,2023-11-07,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001758,2022-04-03,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000947,2023-05-22,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001187,2023-07-16,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001896,2021-09-26,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002866,2021-06-21,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001359,2023-07-01,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000034,2022-02-08,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001759,2022-12-17,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002020,2023-05-20,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001568,2023-10-12,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002540,2022-12-11,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000526,2021-10-08,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000215,2023-10-29,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000412,2023-05-30,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002977,2023-11-15,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000249,2023-03-02,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000134,2021-11-12,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001108,2023-10-07,J45.3,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001895,2023-11-01,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT002741,2022-07-15,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002651,2023-02-12,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000367,2023-02-07,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001250,2021-09-26,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT000816,2023-05-11,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT000737,2022-03-03,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001075,2023-10-04,J45.4,Asthma (specified),ICD-10-CM-2023,Medical
+PAT002499,2022-04-21,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002493,2023-07-19,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000623,2023-05-02,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002507,2023-06-19,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002984,2022-07-11,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001493,2021-07-10,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT001796,2022-06-16,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002631,2023-01-25,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001402,2021-06-06,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002252,2022-04-16,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001238,2022-08-13,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000476,2023-01-21,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002816,2022-10-19,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT001855,2023-01-07,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002696,2023-01-21,J45.9,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002438,2023-04-18,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002344,2021-07-16,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000391,2023-07-15,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002207,2023-03-03,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001632,2021-09-19,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000720,2022-09-10,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001898,2022-04-24,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002316,2022-07-04,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002088,2021-08-17,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000534,2021-10-29,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001743,2022-01-15,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000403,2022-03-31,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002457,2022-07-30,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000798,2021-10-03,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000030,2023-02-06,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002431,2021-11-16,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000665,2023-08-09,J45.4,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002460,2023-05-20,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000837,2022-03-06,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001431,2022-06-09,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002278,2022-11-07,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001004,2022-10-23,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000073,2022-10-20,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002028,2023-04-25,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002713,2023-05-09,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000743,2023-05-08,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001814,2022-10-07,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000699,2022-07-09,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001853,2023-12-04,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000830,2021-06-22,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001449,2021-07-03,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002920,2022-01-23,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000679,2022-09-18,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002454,2022-11-30,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001919,2021-10-29,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000764,2023-12-11,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001858,2022-12-26,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002143,2021-08-30,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001091,2021-11-10,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT002266,2023-11-04,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001711,2022-07-08,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT001510,2023-06-19,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001405,2022-06-22,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002782,2021-08-31,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001204,2021-10-23,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT000204,2023-08-14,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT000966,2023-01-11,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000610,2023-01-15,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001680,2022-01-02,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000400,2022-03-23,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000221,2022-04-06,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002957,2023-08-11,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001854,2022-12-21,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001876,2022-11-05,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT002583,2022-06-02,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002830,2023-04-18,J45.3,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002762,2023-10-19,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002598,2022-04-05,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000602,2022-10-11,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000620,2023-02-19,E78.1,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002923,2022-09-18,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002305,2022-03-24,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT001179,2022-05-04,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001694,2022-08-04,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000276,2021-08-20,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002452,2021-12-04,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001117,2022-06-18,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000187,2022-11-02,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000135,2022-04-29,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000384,2022-01-23,J45,Asthma,ICD-10-CM-2022,Lab
+PAT000726,2021-06-02,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001302,2021-12-18,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000059,2023-02-02,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002734,2023-01-26,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001323,2022-10-15,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000535,2022-01-24,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000658,2022-10-18,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001642,2022-12-11,J45.2,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000424,2023-03-08,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002483,2022-07-06,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000192,2022-04-02,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001845,2023-12-30,J45.9,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002289,2022-01-22,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002209,2022-09-14,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002752,2023-02-22,J45.4,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000719,2022-01-15,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000863,2021-12-19,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000662,2021-12-18,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000931,2021-11-10,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001551,2023-03-03,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002424,2022-10-15,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001877,2023-11-07,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000824,2023-04-16,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001770,2022-10-16,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000320,2023-04-28,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000278,2023-05-14,J45.4,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000369,2023-04-08,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000889,2022-05-07,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001390,2021-08-06,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000039,2023-08-04,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000485,2023-01-26,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001507,2021-09-17,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002410,2021-08-13,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000500,2022-09-03,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000493,2022-03-15,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001360,2021-07-09,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002737,2023-12-01,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002844,2023-02-21,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000955,2023-10-05,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002032,2023-02-10,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000459,2023-10-16,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000782,2022-08-19,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000754,2021-09-12,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000149,2021-09-09,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002284,2023-07-08,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001098,2023-05-25,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT002973,2021-07-30,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000024,2023-04-09,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002479,2022-07-08,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000949,2021-09-06,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002124,2021-07-05,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001085,2023-02-11,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002766,2022-07-08,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000806,2022-01-30,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002883,2022-01-10,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002557,2023-09-23,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002528,2022-04-03,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002365,2022-09-30,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002237,2022-06-22,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001051,2021-09-05,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002768,2023-03-17,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001353,2021-06-27,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001327,2021-08-15,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002111,2022-07-03,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002320,2023-06-01,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000780,2021-10-21,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002322,2021-08-04,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001341,2022-06-03,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002905,2022-09-18,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002275,2023-08-20,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002227,2023-03-24,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001365,2022-03-30,J45,Asthma,ICD-10-CM-2022,Lab
+PAT000505,2023-08-27,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT000020,2023-04-14,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000436,2021-06-02,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002168,2021-12-27,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002416,2023-01-08,J45.5,Asthma (specified),ICD-10-CM-2023,Medical
+PAT002079,2022-10-17,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002699,2022-10-06,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001239,2023-06-18,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT000348,2022-05-04,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001600,2023-10-18,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT002765,2022-12-26,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002496,2023-11-21,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001810,2023-09-05,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002100,2023-08-03,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002381,2023-03-20,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002174,2021-10-05,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001626,2021-10-30,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001260,2022-06-07,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000026,2022-11-07,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT001612,2023-11-21,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001771,2023-04-02,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002663,2022-12-10,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000153,2021-06-23,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000985,2023-06-19,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002141,2022-12-08,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002065,2023-03-06,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000661,2023-08-23,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT002809,2023-10-28,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT002985,2023-08-14,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000439,2023-08-27,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000347,2022-07-23,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000106,2023-02-11,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001956,2023-07-01,J45.9,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001693,2023-12-04,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001209,2022-08-05,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002356,2023-05-12,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT000291,2021-11-16,J45,Asthma,ICD-10-CM-2022,Lab
+PAT000697,2022-03-02,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001182,2021-09-20,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002064,2023-10-13,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000645,2023-06-27,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT000361,2023-07-08,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001945,2023-10-01,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001627,2023-12-28,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002417,2023-12-02,J45.5,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000207,2021-08-07,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT001760,2023-01-05,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001851,2023-01-07,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000018,2023-06-28,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT002333,2022-07-29,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001710,2021-07-11,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002070,2022-01-04,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001027,2022-08-04,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002194,2021-09-17,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002574,2023-04-15,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002031,2021-08-28,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001802,2021-12-06,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001781,2023-10-13,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000471,2022-09-05,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001724,2023-10-19,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT002804,2022-05-12,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001295,2023-05-23,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002045,2021-07-23,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000858,2021-08-05,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001458,2023-07-08,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000831,2023-06-04,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000085,2022-04-03,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002110,2022-04-11,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002679,2023-12-30,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002833,2021-08-09,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002525,2021-10-26,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000454,2023-12-02,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001257,2023-04-15,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000379,2023-01-19,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001343,2023-12-28,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002086,2021-12-31,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000381,2023-03-07,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT001465,2023-05-10,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000251,2023-04-13,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002931,2022-11-12,J45.4,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000560,2022-06-23,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000112,2022-10-07,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001358,2022-03-29,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001481,2022-06-01,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000587,2023-04-16,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000894,2022-09-22,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002976,2021-06-13,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000161,2021-12-14,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002827,2022-10-23,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001383,2023-01-24,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000795,2022-12-31,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002971,2022-08-06,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002053,2023-05-03,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002462,2022-02-20,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000502,2021-11-02,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002146,2023-04-29,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002835,2022-07-15,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT000727,2023-01-20,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001608,2023-10-07,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000315,2022-06-22,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000349,2023-09-15,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002962,2023-07-19,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002193,2022-09-19,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001912,2023-01-06,J45.4,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002952,2022-02-01,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002107,2022-11-27,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000615,2023-12-07,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001113,2022-03-05,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000272,2023-01-06,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002643,2023-01-06,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001999,2022-11-03,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000750,2023-03-15,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000672,2021-11-01,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000868,2023-07-15,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000939,2023-07-30,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT002805,2021-08-08,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT001715,2022-01-26,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000041,2021-11-16,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000850,2021-12-12,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001719,2023-08-16,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT001014,2023-08-24,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001439,2023-10-18,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002966,2021-09-26,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002154,2022-04-02,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002183,2022-03-05,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT002831,2022-01-23,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001575,2022-05-19,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000892,2021-12-17,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001146,2021-09-29,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000721,2022-07-10,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002890,2023-12-08,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000393,2021-08-09,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001104,2022-12-28,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000336,2022-12-09,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000445,2021-06-18,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001787,2022-02-17,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000164,2022-05-04,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002481,2021-07-18,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001589,2023-11-02,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000520,2021-07-05,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001927,2021-11-30,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002694,2021-09-06,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001705,2022-01-24,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002935,2022-12-11,F32.4,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT002991,2022-07-20,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000715,2022-12-06,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000702,2021-11-06,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002787,2022-12-06,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002774,2022-04-28,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001592,2023-03-02,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001348,2022-01-22,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001269,2021-07-08,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001702,2022-04-27,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000722,2023-12-03,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002562,2023-06-10,J45.5,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002616,2023-04-16,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000588,2023-11-02,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002630,2022-06-23,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002166,2022-01-27,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000605,2022-05-19,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000057,2023-08-24,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001030,2023-01-05,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002484,2022-05-21,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002281,2022-02-27,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002846,2022-11-26,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001978,2022-06-11,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000779,2022-06-29,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002180,2021-09-26,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001824,2022-12-02,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001049,2022-01-27,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT000712,2022-11-17,J45.4,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000076,2023-04-23,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001691,2022-09-02,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000934,2023-05-27,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002492,2022-11-22,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT002861,2023-04-25,J45.5,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000090,2023-10-07,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT001139,2022-08-21,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002520,2022-11-24,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT002384,2021-12-13,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002869,2023-08-10,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000427,2022-05-08,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001644,2022-02-04,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002666,2022-10-26,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT000206,2022-05-27,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002175,2023-05-19,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002913,2021-10-24,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000282,2022-04-13,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001913,2022-09-13,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT000478,2023-03-03,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001727,2023-05-18,J45.9,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001315,2022-02-24,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002353,2023-07-14,J45.3,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000327,2021-12-16,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000179,2023-04-15,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001850,2023-05-08,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000770,2023-12-21,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001852,2022-10-02,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001168,2023-03-31,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000718,2023-12-15,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT002721,2023-04-21,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000967,2022-03-31,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001542,2023-12-21,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002870,2023-08-19,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000517,2022-08-24,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001352,2021-11-29,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001095,2021-07-04,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002162,2023-11-04,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002198,2022-06-03,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002566,2021-09-14,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002437,2021-08-07,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002875,2021-12-19,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000925,2021-12-24,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001786,2021-10-14,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002970,2022-11-13,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002792,2022-02-17,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000973,2023-06-13,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000802,2023-01-16,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000512,2021-06-26,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000696,2021-12-23,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT001963,2023-05-19,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000372,2022-07-10,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002298,2023-12-09,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001703,2022-07-31,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000419,2023-09-25,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002682,2023-11-29,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002772,2021-08-02,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000571,2022-05-15,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT001550,2021-09-19,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001114,2021-11-20,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT002373,2022-01-15,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002196,2022-04-18,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001079,2022-01-26,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002247,2023-02-09,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002860,2021-09-09,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002662,2022-10-06,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000714,2023-07-27,J45.2,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000281,2022-05-15,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002083,2023-09-09,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002815,2021-09-17,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000147,2022-05-29,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001562,2023-11-13,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000786,2021-08-23,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT000582,2023-10-13,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001698,2023-04-21,J45.5,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001625,2021-12-18,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001459,2023-08-17,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000009,2022-06-16,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000017,2023-05-06,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001047,2022-03-20,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT001713,2023-07-04,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT002195,2022-12-16,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT002192,2023-09-24,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002980,2022-03-26,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002645,2022-08-21,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002518,2023-01-31,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000411,2021-07-20,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001539,2023-07-19,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001069,2021-11-17,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002138,2022-06-16,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001270,2021-06-15,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002428,2022-06-06,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001928,2023-05-24,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000441,2021-11-08,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002564,2023-02-13,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002456,2022-06-28,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001052,2022-01-30,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002531,2022-10-07,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001587,2023-02-15,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002592,2022-02-03,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT002205,2022-08-16,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT001289,2022-10-05,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001962,2023-09-04,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000456,2022-02-02,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT001983,2023-08-12,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002368,2022-12-16,J45.9,Asthma (specified),ICD-10-CM-2023,Medical
+PAT002624,2023-03-31,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000354,2023-08-11,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001908,2023-02-04,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000558,2021-09-10,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002724,2023-07-11,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002684,2022-06-30,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT000978,2023-11-29,J45.4,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001890,2023-04-12,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT000888,2023-02-28,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001864,2023-11-10,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT001148,2021-12-14,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002455,2021-10-26,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002398,2022-09-07,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002235,2023-08-20,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002173,2023-06-30,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002441,2022-03-09,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002144,2022-07-07,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT002876,2021-07-25,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002350,2023-01-17,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000074,2022-07-14,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT001886,2022-12-26,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002993,2022-01-24,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001972,2022-03-03,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001022,2022-12-13,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002258,2023-02-28,J45.5,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001039,2021-06-26,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001399,2022-08-24,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002904,2022-03-08,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002280,2023-07-04,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT002534,2022-05-03,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001253,2022-09-06,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002673,2022-10-02,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002080,2021-10-24,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000109,2023-01-13,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001745,2021-07-30,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT001832,2022-07-09,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000077,2023-09-03,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001536,2022-06-08,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT001428,2023-12-07,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT000918,2022-05-04,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001429,2022-05-03,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002374,2023-10-30,J45.5,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000360,2021-12-13,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000326,2022-12-25,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT002222,2023-12-17,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000071,2023-05-21,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001167,2022-08-12,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002011,2023-01-07,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001812,2021-07-05,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002030,2021-11-08,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001863,2023-10-26,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001979,2023-11-11,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002116,2021-07-17,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002151,2023-03-06,J45.5,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000050,2023-07-05,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002131,2022-07-05,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001492,2021-10-07,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT001842,2023-01-09,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000213,2021-07-04,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001227,2022-02-14,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001615,2021-10-27,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002545,2022-02-18,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002052,2023-12-15,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001171,2023-09-18,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000222,2023-04-27,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000224,2023-09-04,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002201,2023-11-12,J45.2,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000819,2022-02-04,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001687,2021-07-18,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT000010,2023-07-19,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000116,2022-09-25,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001543,2022-09-09,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002781,2021-06-07,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001002,2022-09-08,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001815,2023-12-03,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT001362,2023-05-12,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002840,2022-04-24,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002063,2023-07-02,J45.9,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002074,2021-09-12,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT001464,2022-03-24,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000280,2022-09-10,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000619,2023-02-23,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001423,2021-10-19,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002807,2022-09-16,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT002073,2023-08-11,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002660,2023-12-01,J45.5,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000708,2021-09-15,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001247,2022-12-14,J45.4,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000794,2022-03-06,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001395,2022-07-13,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002738,2023-05-28,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001278,2022-03-20,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT001025,2023-06-10,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001737,2022-12-03,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002856,2023-09-23,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002497,2023-01-27,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001266,2023-07-10,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001571,2021-12-04,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002979,2023-11-01,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT000466,2021-08-26,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000508,2021-09-28,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002999,2023-08-08,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000789,2022-03-07,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001620,2021-10-31,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT000785,2023-11-15,J45.5,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000915,2022-07-11,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001195,2022-11-29,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002933,2023-01-24,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000906,2023-03-09,J45.3,Asthma (specified),ICD-10-CM-2023,Lab
+PAT001696,2023-11-26,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002969,2022-08-21,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002801,2023-01-05,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000423,2022-10-22,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT001165,2022-10-31,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002029,2021-08-08,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002055,2022-01-04,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002090,2023-11-23,J45.2,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000913,2022-10-14,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000352,2023-03-30,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002992,2023-10-01,J45.9,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000364,2022-09-28,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000195,2023-06-08,J45.5,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001752,2021-06-18,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002949,2021-07-28,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000407,2023-08-15,J45.5,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002536,2021-12-24,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT001131,2021-10-04,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT000585,2023-08-03,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000312,2021-10-11,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000398,2023-10-10,J45.9,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000304,2021-08-14,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT000048,2023-01-24,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT002708,2023-10-25,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000421,2022-05-04,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002097,2022-10-19,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT002099,2023-03-04,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000329,2022-01-31,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002323,2022-05-07,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001017,2021-09-12,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002430,2021-10-17,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000175,2021-09-06,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001897,2022-04-25,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002191,2023-07-27,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002582,2022-04-15,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000486,2022-11-19,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT001549,2021-06-02,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001020,2023-06-24,E11.1,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002066,2021-09-15,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001527,2022-04-08,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002864,2023-10-20,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002466,2023-05-31,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT000774,2022-11-19,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000852,2023-01-15,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT001067,2023-06-21,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001163,2022-09-08,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001385,2023-01-25,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT000566,2022-04-21,J45,Asthma,ICD-10-CM-2022,Lab
+PAT000143,2023-04-27,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001357,2022-04-19,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001083,2022-02-04,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT001726,2023-10-10,J45.9,Asthma (specified),ICD-10-CM-2023,Lab
+PAT000914,2022-06-15,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001629,2022-07-18,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001068,2023-02-11,J45.2,Asthma (specified),ICD-10-CM-2023,Medical
+PAT002821,2023-12-30,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002270,2022-07-19,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT001599,2022-05-13,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002188,2023-10-02,J45.3,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000498,2021-06-07,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002847,2023-03-01,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001044,2023-12-17,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000368,2022-05-14,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002255,2023-07-17,I25.110,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000319,2023-01-21,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001041,2021-10-21,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000435,2022-05-06,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000537,2021-10-06,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000812,2022-07-23,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001224,2022-08-28,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000683,2023-02-17,J45.9,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001263,2023-03-05,J45.5,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001783,2023-06-04,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000035,2022-01-07,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000351,2023-07-02,J45.3,Asthma (specified),ICD-10-CM-2023,Medical
+PAT001011,2022-12-23,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002044,2023-01-13,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000472,2021-12-22,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001922,2023-12-11,J45.2,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000738,2021-06-18,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT000617,2023-06-25,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001363,2023-05-16,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000539,2023-11-12,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002215,2023-04-14,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000420,2022-03-16,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT001861,2021-08-21,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001437,2021-09-07,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002397,2021-09-02,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002118,2023-03-05,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000056,2023-08-06,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000595,2023-01-28,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000302,2023-08-30,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000487,2023-02-24,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001048,2021-12-14,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001333,2021-11-04,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT000491,2022-03-21,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001074,2023-10-02,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001115,2022-10-09,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002004,2022-11-22,F32.2,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002204,2023-04-22,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001818,2022-01-03,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001499,2022-07-23,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT001721,2023-09-09,J45.5,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002419,2023-02-04,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002382,2022-04-25,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT001440,2021-07-05,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001526,2022-10-17,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000157,2021-06-02,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000688,2021-07-26,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002837,2022-12-18,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT002328,2021-08-21,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT001471,2022-07-04,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002408,2022-10-31,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002314,2022-10-27,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002850,2022-08-15,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000516,2021-08-30,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001299,2021-11-03,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002148,2023-03-13,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT000378,2022-02-18,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002072,2023-10-15,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT001534,2022-01-25,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT002027,2022-03-16,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT000700,2021-09-10,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001677,2022-03-05,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000353,2022-07-05,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT001709,2022-01-09,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT000310,2023-07-07,E78.4,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT001778,2022-06-09,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000984,2021-12-23,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001777,2023-04-05,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000177,2022-01-28,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002300,2022-04-23,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000477,2022-09-17,J45,Asthma,ICD-10-CM-2022,Lab
+PAT001462,2023-12-30,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001024,2021-08-30,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002533,2023-03-01,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT002293,2023-09-05,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002554,2022-03-04,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001326,2022-02-04,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001332,2023-07-20,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000414,2023-11-07,F32.1,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Medical
+PAT001683,2021-12-17,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002990,2022-05-18,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001541,2021-06-25,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT001301,2023-06-28,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001061,2022-12-16,E78.0,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT000464,2022-09-19,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT002008,2021-12-27,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001381,2022-03-22,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002611,2023-07-07,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT000350,2021-12-19,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002789,2022-04-15,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000083,2021-10-02,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001414,2022-12-31,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001418,2022-08-10,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001412,2023-08-18,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002886,2021-12-17,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT001952,2021-06-19,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000163,2023-01-22,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002406,2021-07-08,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT002465,2023-04-12,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT001045,2021-10-28,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000055,2023-11-26,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002160,2022-12-28,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT002511,2021-07-27,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT002897,2023-02-05,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002399,2023-02-06,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000954,2021-10-18,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000916,2022-02-01,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001397,2023-05-04,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000254,2023-10-02,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Medical
+PAT002865,2023-02-28,E78.3,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002906,2023-02-21,E11.3,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000128,2022-12-31,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000531,2023-04-14,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT000277,2022-05-23,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001116,2023-05-26,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000957,2023-02-12,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001180,2023-04-10,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000474,2023-08-09,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002549,2022-03-05,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001560,2022-01-10,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT001217,2022-09-11,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000428,2022-06-02,J45,Asthma,ICD-10-CM-2022,Medical
+PAT001798,2023-08-06,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Lab
+PAT000676,2023-11-22,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT002559,2023-06-13,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002115,2023-02-25,J45.2,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002610,2021-10-20,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002711,2022-11-11,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001607,2021-08-28,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002843,2022-12-09,J45.4,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000293,2023-03-07,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT002117,2023-01-04,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT001007,2022-09-17,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002112,2022-04-24,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002506,2022-01-07,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002608,2021-06-05,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000796,2022-03-07,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT001892,2023-10-23,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001939,2022-10-17,E03.1,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001847,2021-08-06,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002810,2021-12-23,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002553,2023-02-15,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002393,2023-08-13,E78.2,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001816,2023-01-22,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT001005,2022-01-18,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001870,2021-09-03,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002937,2021-07-29,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
+PAT002599,2023-10-22,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Pharmacy
+PAT000981,2021-06-27,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001748,2022-02-27,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000671,2023-08-29,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002390,2023-12-05,J45.9,Asthma (specified),ICD-10-CM-2023,Medical
+PAT000810,2022-01-08,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT000598,2022-06-20,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001330,2023-05-26,E03.9,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT001056,2023-02-27,F32.0,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT002639,2023-10-04,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT001989,2022-09-11,J45,Asthma,ICD-10-CM-2022,Medical
+PAT002186,2021-07-24,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT001700,2023-04-24,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000675,2022-05-29,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002983,2021-09-22,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002606,2021-09-04,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000899,2023-06-28,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT002034,2022-04-25,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002164,2021-06-25,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000917,2022-05-09,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT002900,2022-10-10,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000366,2023-01-14,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT001317,2023-08-27,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT001750,2022-06-27,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT001718,2021-07-19,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000792,2021-07-11,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002567,2021-12-01,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001294,2021-09-05,I10,Essential (primary) hypertension,ICD-10-CM-2022,Medical
+PAT002627,2021-06-30,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002852,2022-03-26,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT000956,2021-11-13,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT002899,2021-12-14,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002214,2022-10-03,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Pharmacy
+PAT000402,2022-07-23,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT002236,2021-06-17,J45,Asthma,ICD-10-CM-2022,Lab
+PAT002106,2022-06-08,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT001314,2022-06-08,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000303,2021-07-02,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002157,2022-08-03,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000003,2022-05-27,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT000096,2022-12-14,J45.9,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT001196,2023-01-07,I25.10,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT002548,2021-08-27,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Lab
+PAT002446,2023-01-31,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002000,2023-05-05,I25.9,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT002522,2021-07-26,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT001511,2022-10-26,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000191,2023-04-19,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000849,2022-05-26,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT002719,2022-09-05,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000659,2022-11-02,I25.2,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000375,2023-08-14,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT002967,2021-06-24,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT000902,2022-01-11,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Pharmacy
+PAT002647,2022-04-29,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT002105,2023-10-21,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT000305,2021-07-04,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Pharmacy
+PAT001598,2022-01-28,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000986,2023-10-31,E78.5,Disorders of lipoprotein metabolism (specified),ICD-10-CM-2023,Medical
+PAT001376,2022-06-26,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Medical
+PAT000569,2022-01-22,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT002629,2021-12-09,E03,Other hypothyroidism,ICD-10-CM-2022,Medical
+PAT002288,2023-07-22,J45.9,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT000263,2023-11-30,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000443,2023-01-10,E11.0,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002200,2021-11-18,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Pharmacy
+PAT002276,2023-01-05,E03.2,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT000097,2021-08-26,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Pharmacy
+PAT001198,2022-07-24,I10,Essential (primary) hypertension,ICD-10-CM-2022,Pharmacy
+PAT000622,2021-11-27,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT001408,2022-09-01,J45,Asthma,ICD-10-CM-2022,Medical
+PAT000878,2023-07-21,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000515,2022-04-25,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Medical
+PAT002746,2022-04-04,E03,Other hypothyroidism,ICD-10-CM-2022,Pharmacy
+PAT000687,2023-07-16,E11.3,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000869,2023-01-05,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000640,2022-06-09,K21,Gastro-esophageal reflux disease,ICD-10-CM-2022,Lab
+PAT001574,2021-06-30,I25,Chronic ischaemic heart disease,ICD-10-CM-2022,Lab
+PAT000787,2023-06-04,F32.9,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Pharmacy
+PAT002177,2022-12-25,E11.2,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT000791,2022-08-03,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Medical
+PAT000308,2023-10-24,E11.4,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT002622,2023-05-05,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002652,2023-07-25,K21.9,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Pharmacy
+PAT000142,2022-07-02,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT000027,2023-01-23,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Pharmacy
+PAT000705,2023-02-25,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Medical
+PAT000716,2023-06-18,I25.3,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Medical
+PAT000214,2023-08-19,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT002013,2022-07-24,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Pharmacy
+PAT000318,2023-04-07,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Lab
+PAT002677,2023-02-20,I10,Essential (primary) hypertension (specified),ICD-10-CM-2023,Medical
+PAT000710,2022-05-01,E03,Other hypothyroidism,ICD-10-CM-2022,Lab
+PAT002251,2023-04-03,E11.5,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Pharmacy
+PAT000098,2021-07-01,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Lab
+PAT002495,2022-02-28,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000264,2023-03-23,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Lab
+PAT000404,2023-08-01,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Lab
+PAT001436,2023-06-23,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT001657,2023-06-02,E11.9,Type 2 diabetes mellitus (specified),ICD-10-CM-2023,Lab
+PAT002091,2023-03-07,J45.4,Asthma (specified),ICD-10-CM-2023,Pharmacy
+PAT002838,2022-11-14,I25.5,Chronic ischaemic heart disease (specified),ICD-10-CM-2023,Pharmacy
+PAT001900,2022-01-04,E78,Disorders of lipoprotein metabolism,ICD-10-CM-2022,Medical
+PAT000933,2022-10-24,K21.0,Gastro-esophageal reflux disease (specified),ICD-10-CM-2023,Medical
+PAT000583,2022-10-16,E03.8,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002963,2022-11-21,E03.0,Other hypothyroidism (specified),ICD-10-CM-2023,Lab
+PAT002127,2022-02-01,E11,Type 2 diabetes mellitus,ICD-10-CM-2022,Medical
+PAT000604,2023-08-20,F32.3,"Major depressive disorder, single episode (specified)",ICD-10-CM-2023,Lab
+PAT001401,2022-01-07,F32,"Major depressive disorder, single episode",ICD-10-CM-2022,Lab
+PAT000870,2022-02-07,J45,Asthma,ICD-10-CM-2022,Pharmacy
+PAT001409,2022-01-09,I10,Essential (primary) hypertension,ICD-10-CM-2022,Lab
